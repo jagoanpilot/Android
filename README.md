@@ -1,1 +1,2 @@
-# Android
+Jagoancoin wallet (based on Coinomi Wallet)
+===============
