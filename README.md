@@ -14,6 +14,5 @@ Coin Support List
 
 = Dash =
 
-===============
 Add your own coin 
 Contact : https://t.me/AL_CUTEID
