@@ -6,6 +6,8 @@ Coin Support List
 
 = Babacoin =
 
+= Nyancoin =
+
 = Bitcoin =
 
 = Litecoin =
